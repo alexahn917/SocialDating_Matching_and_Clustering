@@ -15,7 +15,7 @@ public class CSVReader {
 		String cvsSplitBy = ",";
 		BufferedWriter bw = null;
 		try {
-			String savedFile = "/Users/Alex/Documents/GitHub/SocialDating_Matching_and_Clustering/Social Dating/Data/date.train";
+			String savedFile = "/Users/Alex/Documents/GitHub/SocialDating_Matching_and_Clustering/Social Dating/Data/full_data";
 			File file = new File(savedFile);
 			FileWriter fw = new FileWriter(file.getAbsoluteFile());
 			bw = new BufferedWriter(fw);
@@ -27,7 +27,8 @@ public class CSVReader {
 				for (int i = 0; i < data.length; i++) {
 					if (i == 0) {
 						outputVal = data[i];
-					} else {
+					} 
+					else if (!data[i].equals("") && !data[i].equals("NULL")) {
 						outputVal = outputVal + " " + i +":" +data[i];
 					}
 				}
