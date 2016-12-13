@@ -49,7 +49,7 @@ We implemented Machine Learning algorithms (without the use of external librarie
 We have constructed binary classification model using multiple algorithms each with varying parameters to select the best performing (highest prediction accuracy) model by tuning following parameters:
 \begin{enumerate}
 \item $I$: number of training iterations
-\item $\lambda$: regularization terms
+\item $\theta$: regularization terms
 \end{enumerate}
 
 Also, clustering analysis is conducted under different $\lambda$ values for $\lambda$-means clustering to observe how many different clusters we may acquire from the data.\\
@@ -174,7 +174,7 @@ For choosing binary classification model, we conducted 5-fold cross validation o
   \label{fig:graph1}
 \end{figure}
 
-Figure \ref{fig:table1} and Figure \ref{fig:graph1} shows a changing behavior of prediction values by different algorithms for binary classifications using default parameters (training iterations=$10$, and $\lambda=1.0$). Notice that $KNN$ performs best, then the other two models perform similarly.\\
+Figure \ref{fig:table1} and Figure \ref{fig:graph1} shows a changing behavior of prediction values by different algorithms for binary classifications using default parameters (training iterations=$10$, and $\$\theta=1.0$). Notice that $KNN$ performs best, then the other two models perform similarly.\\
 
 Plot below show changes in prediction accuracy at different number of iterations.
 
@@ -308,7 +308,7 @@ In conclusion, we have successfully modeled and chosen a prediction model using 
 For tuning parameters we have chosen each by the results presented in section 4:
 
 \begin{enumerate}
-\item Pegasos: Iterations=$25$, Regularization=$1.0$
+\item Pegasos: Iterations=$25$, Regularization($\theta$)=$1.0$
 \item $\lambda$-means: $\lambda=900$
 \item Combined Model: added feature dimension on cluster assignments by $\lambda$-means clustering
 \end{enumerate}
