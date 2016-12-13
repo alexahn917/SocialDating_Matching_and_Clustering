@@ -1,0 +1,497 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.7)  13 DEC 2016 02:17
+entering extended mode
+**final_project_writeup.tex
+(final_project_writeup.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (naaclhlt2010.sty
+Conference Style for NAACL-HLT 2010 -- released November 16, 2009
+\titlebox=\skip43
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(final_project_writeup.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 33.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 34.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 34.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \vbox (badness 2894) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 55--56
+[]\OT1/ptm/m/n/10.95 Also, clus-ter-ing anal-y-sis is con-ducted un-der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+
+Underfull \hbox (badness 1496) in paragraph at lines 62--63
+\OT1/ptm/m/n/10.95 Speed Dat-ing Ex-per-i-ment data of 21 waves is
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 62--63
+\OT1/ptm/m/n/10.95 se-lec-tion, by Ray Fis-man and Sheena Iyen-gar.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 84--85
+\OT1/ptm/m/n/10.95 con-structed a re-la-tional database in $\OML/cmm/m/it/10.95
+ SQL$ \OT1/ptm/m/n/10.95 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 99.
+
+Underfull \hbox (badness 1838) in paragraph at lines 99--101
+\OT1/ptm/m/n/10.95 Perceptron is a mis-take driven on-line
+ []
+
+[2]
+Overfull \hbox (10.50107pt too wide) detected at line 114
+\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 w\OT1/cmr/m/n/10.9
+5 ) = [] \OML/cmm/m/it/10.95 []\OMS/cmsy/m/n/10.95 jj\OML/cmm/m/it/10.95 w\OMS
+/cmsy/m/n/10.95 jj[] \OT1/cmr/m/n/10.95 + [] [] \OML/cmm/m/it/10.95 l\OT1/cmr/m
+/n/10.95 (\OML/cmm/m/it/10.95 w\OT1/cmr/m/n/10.95 ; (\OML/cmm/m/it/10.95 x[]; y
+[]\OT1/cmr/m/n/10.95 ))
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 117--119
+\OT1/ptm/m/n/10.95 with the as-sump-tion that hy-per-plane
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 120--121
+\OT1/ptm/m/n/10.95 Pri-mal Es-ti-mated sub-Gradient Solver,
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 120--121
+\OT1/ptm/m/n/10.95 above. Pe-ga-sos takes sub-gradient of
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 120--121
+$\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 w\OT1/cmr/m/n/10.
+95 ; \OML/cmm/m/it/10.95 i\OT1/cmr/m/n/10.95 )$ \OT1/ptm/m/n/10.95 at it-er-a-t
+ion $\OML/cmm/m/it/10.95 i$\OT1/ptm/m/n/10.95 , where learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+\OT1/ptm/m/n/10.95 rate con-tin-u-ously de-creases at each
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 120--121
+\OT1/ptm/m/n/10.95 it-er-a-tion (func-tion of time) to guar-
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 120--121
+\OT1/ptm/m/n/10.95 an-tee con-ver-gence. This al-go-rithm
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 120--121
+\OT1/ptm/m/n/10.95 stochastic-optimization step rather than
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 126--127
+[]\OT1/ptm/m/n/10.95 K-Nearest Neigh-bors is an instance-based
+ []
+
+
+Underfull \vbox (badness 2237) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 139--141
+$\OML/cmm/m/it/10.95 $\OT1/ptm/m/n/10.95 -means clus-ter-ing is an un-su-per-v
+ised
+ []
+
+[3] <data_1.png, id=23, 550.2156pt x 155.1396pt>
+File: data_1.png Graphic file (type png)
+ <use data_1.png>
+Package pdftex.def Info: data_1.png used on input line 166.
+(pdftex.def)             Requested size: 227.6506pt x 64.18997pt.
+
+<1_Raw_Binary_Classification.png, id=25, 553.1064pt x 256.3176pt>
+File: 1_Raw_Binary_Classification.png Graphic file (type png)
+
+<use 1_Raw_Binary_Classification.png>
+Package pdftex.def Info: 1_Raw_Binary_Classification.png used on input line 172
+.
+(pdftex.def)             Requested size: 227.6506pt x 105.49763pt.
+
+Underfull \hbox (badness 1112) in paragraph at lines 177--178
+\OT1/ptm/m/n/10.95 of pre-dic-tion val-ues by dif-fer-ent al-go-rithms for
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 177--178
+\OT1/ptm/m/n/10.95 bi-nary clas-si-fi-ca-tions us-ing de-fault pa-ram-e-ters
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+<Normal_Prediction_Accuracy_with_Interation.png, id=26, 556.479pt x 296.7888pt>
+File: Normal_Prediction_Accuracy_with_Interation.png Graphic file (type png)
+<use Normal_Prediction_Accuracy_with_Interation.png>
+Package pdftex.def Info: Normal_Prediction_Accuracy_with_Interation.png used on
+ input line 183.
+(pdftex.def)             Requested size: 227.6506pt x 121.41248pt.
+
+<2_lamba_vs_cluster.png, id=27, 263.5446pt x 234.6366pt>
+File: 2_lamba_vs_cluster.png Graphic file (type png)
+
+<use 2_lamba_vs_cluster.png>
+Package pdftex.def Info: 2_lamba_vs_cluster.png used on input line 196.
+(pdftex.def)             Requested size: 227.66133pt x 170.72118pt.
+
+<3_cluster_vs_VI.png, id=28, 300.1614pt x 234.1548pt>
+File: 3_cluster_vs_VI.png Graphic file (type png)
+
+<use 3_cluster_vs_VI.png>
+Package pdftex.def Info: 3_cluster_vs_VI.png used on input line 205.
+(pdftex.def)             Requested size: 227.65327pt x 170.72435pt.
+
+<4_binary_classification_with_cluster_id.png, id=29, 563.2242pt x 262.581pt>
+File: 4_binary_classification_with_cluster_id.png Graphic file (type png)
+
+<use 4_binary_classification_with_cluster_id.png>
+Package pdftex.def Info: 4_binary_classification_with_cluster_id.png used on in
+put line 215.
+(pdftex.def)             Requested size: 227.6506pt x 106.13235pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./data_1.png> <./1_Raw_Binary_Classification.png> <./Normal_Prediction_Acc
+uracy_with_Interation.png> <./2_lamba_vs_cluster.png> <./3_cluster_vs_VI.png>]
+<5_binary_classificatoin_with_clusdter_feature.png, id=38, 565.1514pt x 371.467
+8pt>
+File: 5_binary_classificatoin_with_clusdter_feature.png Graphic file (type png)
+
+ <use 5_binary_classificatoin_with_clusdter_feature.png>
+Package pdftex.def Info: 5_binary_classificatoin_with_clusdter_feature.png used
+ on input line 229.
+(pdftex.def)             Requested size: 227.6506pt x 149.63309pt.
+
+<6_full_iteration_change.png, id=39, 608.0316pt x 315.0972pt>
+File: 6_full_iteration_change.png Graphic file (type png)
+
+<use 6_full_iteration_change.png>
+Package pdftex.def Info: 6_full_iteration_change.png used on input line 238.
+(pdftex.def)             Requested size: 227.6506pt x 117.97363pt.
+
+<full_optimal_pair.png, id=40, 575.2692pt x 239.9364pt>
+File: full_optimal_pair.png Graphic file (type png)
+
+<use full_optimal_pair.png>
+Package pdftex.def Info: full_optimal_pair.png used on input line 247.
+(pdftex.def)             Requested size: 227.6506pt x 94.94774pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+[5 <./4_binary_classification_with_cluster_id.png> <./5_binary_classificatoin_w
+ith_clusdter_feature.png> <./6_full_iteration_change.png> <./full_optimal_pair.
+png>]
+Underfull \hbox (badness 3281) in paragraph at lines 298--299
+\OT1/ptm/m/n/10.95 Pe-ga-sos al-go-rithm which is a ver-sion of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+Underfull \vbox (badness 4899) has occurred while \output is active []
+
+ [6]
+<data_2.png, id=52, 426.393pt x 145.5036pt>
+File: data_2.png Graphic file (type png)
+ <use data_2.png>
+Package pdftex.def Info: data_2.png used on input line 345.
+(pdftex.def)             Requested size: 227.6506pt x 77.68268pt.
+
+<data_3.png, id=53, 624.4128pt x 308.352pt>
+File: data_3.png Graphic file (type png)
+ <use data_3.png>
+Package pdftex.def Info: data_3.png used on input line 350.
+(pdftex.def)             Requested size: 227.6506pt x 112.41815pt.
+
+<data_4.png, id=54, 624.4128pt x 260.172pt>
+File: data_4.png Graphic file (type png)
+ <use data_4.png>
+Package pdftex.def Info: data_4.png used on input line 355.
+(pdftex.def)             Requested size: 227.6506pt x 94.8528pt.
+
+<data_5.png, id=55, 585.387pt x 315.0972pt>
+File: data_5.png Graphic file (type png)
+ <use data_5.png>
+Package pdftex.def Info: data_5.png used on input line 360.
+(pdftex.def)             Requested size: 227.6506pt x 122.53642pt.
+
+<data_6.png, id=56, 585.387pt x 199.4652pt>
+File: data_6.png Graphic file (type png)
+ <use data_6.png>
+Package pdftex.def Info: data_6.png used on input line 365.
+(pdftex.def)             Requested size: 227.6506pt x 77.56892pt.
+
+<data_7.png, id=57, 584.9052pt x 199.947pt>
+File: data_7.png Graphic file (type png)
+ <use data_7.png>
+Package pdftex.def Info: data_7.png used on input line 370.
+(pdftex.def)             Requested size: 227.6506pt x 77.82036pt.
+
+<data_8.png, id=58, 624.4128pt x 276.0714pt>
+File: data_8.png Graphic file (type png)
+ <use data_8.png>
+Package pdftex.def Info: data_8.png used on input line 375.
+(pdftex.def)             Requested size: 227.6506pt x 100.64937pt.
+ [7 <./data_2.png> <./data_3.png> <./data_4.png> <./data_5.png> <./data_6.png> 
+<./data_7.png> <./data_8.png>] (final_project_writeup.aux) ) 
+Here is how much of TeX's memory you used:
+ 1974 strings out of 493698
+ 25911 string characters out of 3144415
+ 87620 words of memory out of 3000000
+ 5274 multiletter control sequences out of 15000+200000
+ 23354 words of font info for 58 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,9n,20p,775b,265s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
+w/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on final_project_writeup.pdf (7 pages, 975192 bytes).
+PDF statistics:
+ 112 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+
